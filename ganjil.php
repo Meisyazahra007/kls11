@@ -1,4 +1,8 @@
 <?php
+
+// MEISYA DAN RAHMA
+
+
 // Soal 1
 for ($i = 5; $i <= 100; $i++) {
     if ($i % 2 != 0) {
